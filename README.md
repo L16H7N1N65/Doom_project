@@ -3,7 +3,7 @@
 ## Doom Project
 
 ### Overview
-Serval Project is a PHP Object-Oriented Programming (POO) application offering a first-person view experience, reminiscent of the iconic game Doom from the 1990s. It involves HTML, CSS, PHP, and MySQL technologies.
+Doom Project is a PHP Object-Oriented Programming (POO) application offering a first-person view experience, reminiscent of the iconic game Doom from the 1990s. It involves HTML, CSS, PHP, and MySQL technologies.
 
 ### Usage
 For optimal experience, it is recommended to use the project with the following specifications:
@@ -47,4 +47,4 @@ Two tables are added: `actions` and `items`, allowing for a richer interactive e
 4. Launch the project using a PHP server.
 
 ### Conclusion
-Serval Project offers a nostalgic journey reminiscent of classic first-person shooter games like Doom, while also showcasing modern web development techniques. With immersive visuals and interactive features, it promises an engaging user experience.
+Doom Project offers a nostalgic journey reminiscent of classic first-person shooter games like Doom, while also showcasing modern web development techniques. With immersive visuals and interactive features, it promises an engaging user experience.
